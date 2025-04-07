@@ -1,0 +1,16 @@
+POST http://localhost:5000/api/auth/logout
+# Content-Type: application/json
+
+# {
+#     "email": "olly1@mail.com",
+#     "password": "qwerty12"  
+# }
+
+
+# POST http://localhost:5000/api/auth/login
+# Content-Type: application/json
+
+# {
+#     "email": "olly1@mail.com",
+#     "password": "qwerty12"
+# }
